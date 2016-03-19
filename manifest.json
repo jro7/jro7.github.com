@@ -1,0 +1,13 @@
+{
+  "start_url": "https://appicalnow.com",
+  "short_name": "AppicalNow",
+  "icons": [
+    {
+      "src": "https://appicalnow.com/imgo.jpg",
+      "sizes": "120x120"
+    }
+  ],
+  "display": "fullscreen",
+  "orientation": "any",
+  "name": "AppicalNow"
+}
